@@ -64,6 +64,11 @@ public class StandAloneTest {
 	System.out.println("Git part 2");
 	System.out.println("Git part 3");
 	System.out.println("Git part 4");
+	System.out.println("Git part 5 main copy");
+	System.out.println("Git part 6 main copy");
+	System.out.println("Git part 7 main copy");
+
+	
 
 	
 
