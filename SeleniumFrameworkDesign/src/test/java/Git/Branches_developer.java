@@ -1,5 +1,7 @@
 package Git;
 
+import org.testng.annotations.Test;
+
 public class Branches_developer {
 	
 	@Test
@@ -14,4 +16,16 @@ public class Branches_developer {
 
 	}
 
+	@Test
+	public void branch_1_update_2()
+	{
+		System.out.println("Inside Branch Developer upadate part 1");
+		System.out.println("Inside Branch Developer upadate part 2");
+		System.out.println("Inside Branch Developer upadate part 3");
+		System.out.println("Inside Branch Developer upadate part 4");
+		
+	}
+	
+	
+	
 }
